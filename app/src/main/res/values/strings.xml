@@ -1,3 +1,145 @@
 <resources>
     <string name="app_name">Art Space</string>
+
+
+    // -------- José Clemente Orozco -------------
+    <string name="art_1_artist_name">José Clemente Orozco</string>
+    <string name="art_1_artist_info">Mexican, 1883-1949</string>
+    <string name="art_1_artist_title">Head Pierced with Arrows</string>
+    <string name="art_1_artist_year">1947</string>
+    <string name="art_1_artist_description">Head Pierced with Arrows by José Clemente Orozco</string>
+    <string name="art_1_artist_bio">José Clemente Orozco was a Mexican caricaturist and painter, who specialized in political murals that established the Mexican Mural Renaissance together with murals by Diego Rivera, David Alfaro Siqueiros, and others. Orozco was the most complex of the Mexican muralists, fond of the theme of human suffering, but less realistic and more fascinated by machines than Rivera. Mostly influenced by Symbolism, he was also a genre painter and lithographer. Between 1922 and 1948, Orozco painted murals in Mexico City, Orizaba, Claremont, California, New York City, Hanover, New Hampshire, Guadalajara, Jalisco, and Jiquilpan, Michoacán. His drawings and paintings are exhibited by the Carrillo Gil Museum in Mexico City, and the Orozco Workshop-Museum in Guadalajara. Orozco was known for being a politically committed artist, and he promoted the political causes of peasants and workers.
+
+José Clemente Orozco was born in 1883 in Zapotlán el Grande (now Ciudad Guzmán), Jalisco to Rosa de Flores Orozco. He was the oldest of his siblings. He married Margarita Valladares, and had three children. At the age of 21, Orozco lost his left hand while working with gunpowder to make fireworks.
+
+The satirical illustrator José Guadalupe Posada, whose engravings about Mexican culture and politics challenged Mexicans to think differently about post-revolutionary Mexico, worked in full view of the public in shop windows located on the way Orozco went to school. In his autobiography, Orozco confesses, \"I would stop [on my way to and from school] and spend a few enchanted minutes in watching [Posada]… This was the push that first set my imagination in motion and impelled me to cover paper with my earliest little figures; this was my awakening to the existence of the art of painting.\" He goes on to say that watching Posada\'s engraving decorated gave him his introduction to the use of color. After attending school for Agriculture and Architecture, Orozco studied art at the Academy of San Carlos. He worked as an illustrator for Mexico City newspapers, and directly as an illustrator for one of the Constitutionalist armies overseen by \"First Chief\" Venustiano Carranza. One of the greatest influences on Orozco in his adult years was Dr. Atl\'s view on Symbolism. In 1914, Orozco followed Dr. Atl to Orizaba when the competing armies whereabout to enter the city. When the revolutionary factions split in 1914 after Victoriano Huerta was ousted, Orozco supported Carranza and General Álvaro Obregón against Pancho Villa and Emiliano Zapata. The violence he witnessed profoundly affected his life and art. \"The world was torn apart around us\", he wrote in his autobiography. \"Troop convoys passed on their way to slaughter. Trains were blown up.\"
+
+In 1916, Orozco, disappointed by the review he received in Mexico about his art, went to the United States. Four years later Orozco came back to Mexico City and began working as a cartoonist. In July 1923, Orozco begun to work on his first mural project aided by Vasconcelos, he participated in the revolutionary war and his paintings reflected his view on the dark essence of the war.
+
+With Diego Rivera, he was a leader of the artist movement known as Mexican Muralism. An important distinction he had from Rivera was his darker view of the Mexican Revolution. While Rivera was a bold, optimistic figure, touting the glory of the revolution, Orozco was less comfortable with the bloody toll the social movement was taking. Orozco is known as one of the \'Big Three\' muralists along with Diego Rivera and David Alfaro Siqueiros. All three artists, as well as the painter Rufino Tamayo, experimented with fresco on large walls, and elevated the art of the mural.
+
+Between 1922 and 1924, Orozco painted the murals Maternity, Man in Battle Against Nature, Christ Destroys His Cross, Destruction of the Old Order, The Aristocrats, The Trench and The Trinity at the National Preparatory School. Some of the murals were destroyed by Orozco himself, and later repainted. Others were vandalized by conservative students and practically destroyed. Thus, Orozco had to repaint many of them when he came back to the School in 1926. In 1925, he painted the mural Omniscience at Mexico City\'s House of Tiles. The following year, he painted a mural at the Industrial School in Orizaba, Veracruz.
+
+Between 1927 and 1934 Orozco lived in the USA. Even after the fall of the stock market in 1929, his works were still in demand. From March to June 1930, at the invitation of the Pomona College Art Department, he painted what he noted was the \"first fresco painted outside the country by a painter of the Contemporary Mexican School\". The fresco, Prometheus (Prometeo del Pomona College), on the wall of a Pomona\'s Frary Dining Hall, was direct and personal at a time when murals were expected to be decorous and decorative, and has been called the first \"modern\" fresco in the United States. Later that year, he painted murals at the New School for Social Research, New York City, now known as The New School. One of his most famous murals is The Epic of American Civilization at Dartmouth College, New Hampshire, USA. It was painted between 1932 and 1934 and covers almost 300 m² (3200 square feet) in 24 panels. Its parts include: Migrations, Human Sacrifices, The Appearance of Quetzalcoatl, Corn Culture, Anglo-America, Hispano-America, Science and Modern Migration of the Spirit (another version of Christ Destroys His Cross). His work was also part of the art competition at the 1932 Summer Olympics.
+
+After returning to Mexico, in 1934 Orozco painted a mural, The Catharsis, at the Palacio de Bellas Artes in Mexico City. Remaining in Mexico, Orozco painted in Guadalajara, Jalisco, the mural The People and Its Leaders in the Government Palace. The frescos for the Hospicio Cabañas, which are considered his masterpiece. In 1940 he painted at the Gabino Ortiz Library in Jiquilpan, Michoacán. Between 1942 and 1944 Orozco painted for the Hospital de Jesús in Mexico City. Orozco\'s 1948 Juárez Reborn huge portrait-mural was one of his last works.
+
+In 1947, he illustrated the book The Pearl, by John Steinbeck.
+
+Orozco died on September 7 in 1949 in Mexico City during his sleep. His death cause was heart failure
+    </string>
+
+
+
+    // -------- Vincent van Gogh -------------
+    <string name="art_2_artist_name">Vincent van Gogh</string>
+    <string name="art_2_artist_info">Dutch, 1853-1890</string>
+    <string name="art_2_artist_title">Self-Portrait</string>
+    <string name="art_2_artist_year">1889</string>
+    <string name="art_2_artist_description">Self-Portrait by Vincent van Gogh</string>
+    <string name="art_2_artist_bio">Vincent Willem van Gogh was a Dutch post-impressionist painter who posthumously became one of the most famous and influential figures in the history of Western art. In a decade, he created about 2,100 artworks, including around 860 oil paintings, most of which date from the last two years of his life. They include landscapes, still lifes, portraits and self-portraits, and are characterised by bold colours and dramatic, impulsive and expressive brushwork that contributed to the foundations of modern art. He was not commercially successful, and his suicide at 37 came after years of mental illness, depression and poverty.
+
+    Born into an upper-middle-class family, Van Gogh drew as a child and was serious, quiet, and thoughtful. As a young man he worked as an art dealer, often travelling, but became depressed after he was transferred to London. He turned to religion and spent time as a Protestant missionary in southern Belgium. He drifted in ill health and solitude before taking up painting in 1881, having moved back home with his parents. His younger brother Theo supported him financially, and the two kept a long correspondence by letter. His early works, mostly still lifes and depictions of peasant labourers, contain few signs of the vivid colour that distinguished his later work. In 1886, he moved to Paris, where he met members of the avant-garde, including Émile Bernard and Paul Gauguin, who were reacting against the Impressionist sensibility. As his work developed he created a new approach to still lifes and local landscapes. His paintings grew brighter in colour as he developed a style that became fully realised during his stay in Arles in the south of France in 1888. During this period he broadened his subject matter to include series of olive trees, wheat fields and sunflowers.
+
+    Van Gogh suffered from psychotic episodes and delusions and though he worried about his mental stability, he often neglected his physical health, did not eat properly and drank heavily. His friendship with Gauguin ended after a confrontation with a razor when, in a rage, he severed part of his own left ear. He spent time in psychiatric hospitals, including a period at Saint-Rémy. After he discharged himself and moved to the Auberge Ravoux in Auvers-sur-Oise near Paris, he came under the care of the homeopathic doctor Paul Gachet. His depression continued and on 27 July 1890, Van Gogh shot himself in the chest with a Lefaucheux revolver. He died from his injuries two days later.
+
+    Van Gogh was unsuccessful during his lifetime, and he was considered a madman and a failure. He became famous after his suicide and exists in the public imagination as a misunderstood genius, the artist \"where discourses on madness and creativity converge\. His reputation began to grow in the early 20th century as elements of his painting style came to be incorporated by the Fauves and German Expressionists. He attained widespread critical, commercial and popular success over the ensuing decades, and he is remembered as an important but tragic painter, whose troubled personality typifies the romantic ideal of the tortured artist. Today, Van Gogh\'s works are among the world\'s most expensive paintings to have ever sold, and his legacy is honoured by a museum in his name, the Van Gogh Museum in Amsterdam, which holds the world\'s largest collection of his paintings and drawings.
+    </string>
+
+
+
+    // -------- Caravaggio -------------
+    <string name="art_3_artist_name">Caravaggio</string>
+    <string name="art_3_artist_info">Italian, 1571-1610</string>
+    <string name="art_3_artist_title">Medusa</string>
+    <string name="art_3_artist_year">1598</string>
+    <string name="art_3_artist_description">Medusa by Caravaggio</string>
+    <string name="art_3_artist_bio">Michelangelo Merisi (Michele Angelo Merigi or Amerighi) da Caravaggio was an Italian painter active in Rome for most of his artistic life. During the final four years of his life he moved between Naples, Malta, and Sicily until his death. His paintings combine a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.
+
+    Caravaggio employed close physical observation with a dramatic use of chiaroscuro that came to be known as tenebrism. He made the technique a dominant stylistic element, darkening shadows and transfixing subjects in bright shafts of light. Caravaggio vividly expressed crucial moments and scenes, often featuring violent struggles, torture, and death. He worked rapidly, with live models, preferring to forgo drawings and work directly onto the canvas. His influence on the new Baroque style that emerged from Mannerism was profound. It can be seen directly or indirectly in the work of Peter Paul Rubens, Jusepe de Ribera, Gian Lorenzo Bernini, and Rembrandt, and artists in the following generation heavily under his influence were called the \"Caravaggisti\" (or \"Caravagesques\"), as well as tenebrists or tenebrosi (\"shadowists\").
+
+    Caravaggio trained as a painter in Milan before moving in his twenties to Rome. He developed a considerable name as an artist, and as a violent, touchy and provocative man. A brawl led to a death sentence for murder and forced him to flee to Naples. There he again established himself as one of the most prominent Italian painters of his generation. He traveled in 1607 to Malta and on to Sicily, and pursued a papal pardon for his sentence. In 1609 he returned to Naples, where he was involved in a violent clash; his face was disfigured and rumours of his death circulated. Questions about his mental state arose from his erratic and bizarre behavior. He died in 1610 under uncertain circumstances while on his way from Naples to Rome. Reports stated that he died of a fever, but suggestions have been made that he was murdered or that he died of lead poisoning.
+
+    Caravaggio\'s innovations inspired Baroque painting, but the Baroque incorporated the drama of his chiaroscuro without the psychological realism. The style evolved and fashions changed, and Caravaggio fell out of favor. In the 20th century interest in his work revived, and his importance to the development of Western art was reevaluated. The 20th-century art historian André Berne-Joffroy stated: \"What begins in the work of Caravaggio is, quite simply, modern painting.\"
+    </string>
+
+
+
+    // -------- Wassily Kandinsky -------------
+    <string name="art_4_artist_name">Wassily Kandinsky</string>
+    <string name="art_4_artist_info">Russian, 1866 - 1944</string>
+    <string name="art_4_artist_title">Gewebe</string>
+    <string name="art_4_artist_year">1923</string>
+    <string name="art_4_artist_description">Gewebe by Wassily Kandinsky</string>
+    <string name="art_4_artist_bio">Wassily Wassilyevich Kandinsky was a Russian painter and art theorist. Kandinsky is generally credited as the pioneer of abstract art. Born in Moscow, Kandinsky spent his childhood in Odessa (today Ukraine), where he graduated at Grekov Odessa Art school. He enrolled at the University of Moscow, studying law and economics. Successful in his profession—he was offered a professorship (chair of Roman Law) at the University of Dorpat (today Tartu, Estonia)—Kandinsky began painting studies (life-drawing, sketching and anatomy) at the age of 30.
+
+    In 1896, Kandinsky settled in Munich, studying first at Anton Ažbe\'s private school and then at the Academy of Fine Arts. He returned to Moscow in 1914, after the outbreak of World War I. Following the Russian Revolution, Kandinsky \"became an insider in the cultural administration of Anatoly Lunacharsky\" and helped establish the Museum of the Culture of Painting. However, by then \"his spiritual outlook... was foreign to the argumentative materialism of Soviet society\", and opportunities beckoned in Germany, to which he returned in 1920. There he taught at the Bauhaus school of art and architecture from 1922 until the Nazis closed it in 1933. He then moved to France, where he lived for the rest of his life, becoming a French citizen in 1939 and producing some of his most prominent art. He died in Neuilly-sur-Seine in 1944.
+    </string>
+
+
+
+    // -------- Edgar Degas -------------
+    <string name="art_5_artist_name">Edgar Degas</string>
+    <string name="art_5_artist_info">French, 1834-1917</string>
+    <string name="art_5_artist_title">Dancers Backstage</string>
+    <string name="art_5_artist_year">1883</string>
+    <string name="art_5_artist_description">Dancers Backstage by Edgar Degas</string>
+    <string name="art_5_artist_bio">Edgar Degas was a French Impressionist artist famous for his pastel drawings and oil paintings.
+
+    Degas also produced bronze sculptures, prints and drawings. Degas is especially identified with the subject of dance; more than half of his works depict dancers. Although Degas is regarded as one of the founders of Impressionism, he rejected the term, preferring to be called a realist, and did not paint outdoors as many Impressionists did.
+
+    Degas was a superb draftsman, and particularly masterly in depicting movement, as can be seen in his rendition of dancers and bathing female nudes. In addition to ballet dancers and bathing women, Degas painted racehorses and racing jockeys, as well as portraits. His portraits are notable for their psychological complexity and for their portrayal of human isolation.
+
+    At the beginning of his career, Degas wanted to be a history painter, a calling for which he was well prepared by his rigorous academic training and close study of classical art. In his early thirties he changed course, and by bringing the traditional methods of a history painter to bear on contemporary subject matter, he became a classical painter of modern life.
+
+    Degas was born in Paris, France, into a moderately wealthy family. He was the oldest of five children of Célestine Musson De Gas, a Creole from New Orleans, Louisiana, and Augustin De Gas, a banker. His maternal grandfather Germain Musson, was born in Port-au-Prince, Haiti, of French descent, and had settled in New Orleans in 1810.
+
+    Degas (he adopted this less grandiose spelling of his family name when he became an adult) began his schooling at age eleven, enrolling in the Lycée Louis-le-Grand. His mother died when he was thirteen, and the main influences on him for the remainder of his youth were his father and several unmarried uncles.
+
+    Degas began to paint early in life. By the time he graduated from the Lycée with a baccalauréat in literature in 1853, at age 18, he had turned a room in his home into an artist\'s studio. Upon graduating, he registered as a copyist in the Louvre Museum, but his father expected him to go to law school. Degas duly enrolled at the Faculty of Law of the University of Paris in November 1853, but applied little effort to his studies.
+
+    In 1855, he met Jean-Auguste-Dominique Ingres, whom he revered and whose advice he never forgot: \"Draw lines, young man, and still more lines, both from life and from memory, and you will become a good artist.\" In April of that year Degas was admitted to the École des Beaux-Arts. He studied drawing there with Louis Lamothe, under whose guidance he flourished, following the style of Ingres.
+
+    In July 1856, Degas traveled to Italy, where he would remain for the next three years. In 1858, while staying with his aunt\'s family in Naples, he made the first studies for his early masterpiece The Bellelli Family. He also drew and painted numerous copies of works by Michelangelo, Raphael, Titian, and other Renaissance artists, but—contrary to conventional practice—he usually selected from an altarpiece a detail that had caught his attention: a secondary figure, or a head which he treated as a portrait.
+
+    Upon his return to France in 1859, Degas moved into a Paris studio large enough to permit him to begin painting The Bellelli Family—an imposing canvas he intended for exhibition in the Salon, although it remained unfinished until 1867. He also began work on several history paintings: Alexander and Bucephalus and The Daughter of Jephthah in 1859–60; Sémiramis Building Babylon in 1860; and Young Spartans around 1860. In 1861, Degas visited his childhood friend Paul Valpinçon in Normandy, and made the earliest of his many studies of horses. He exhibited at the Salon for the first time in 1865, when the jury accepted his painting Scene of War in the Middle Ages, which attracted little attention.
+
+    Although he exhibited annually in the Salon during the next five years, he submitted no more history paintings, and his Steeplechase—The Fallen Jockey (Salon of 1866) signaled his growing commitment to contemporary subject matter. The change in his art was influenced primarily by the example of Édouard Manet, whom Degas had met in 1864 (while both were copying the same Velázquez portrait in the Louvre, according to a story that may be apocryphal).
+
+    Upon the outbreak of the Franco-Prussian War in 1870, Degas enlisted in the National Guard, where his defense of Paris left him little time for painting. During rifle training his eyesight was found to be defective, and for the rest of his life his eye problems were a constant worry to him.
+
+    After the war, Degas began in 1872 an extended stay in New Orleans, where his brother René and a number of other relatives lived. Staying at the home of his Creole uncle, Michel Musson, on Esplanade Avenue, Degas produced a number of works, many depicting family members. One of Degas\'s New Orleans works, A Cotton Office in New Orleans, garnered favorable attention back in France, and was his only work purchased by a museum (the Pau) during his lifetime.
+
+    Degas returned to Paris in 1873 and his father died the following year, whereupon Degas learned that his brother René had amassed enormous business debts. To preserve his family\'s reputation, Degas sold his house and an art collection he had inherited, and used the money to pay off his brother\'s debts. Dependent for the first time in his life on sales of his artwork for income, he produced much of his greatest work during the decade beginning in 1874. Disenchanted by now with the Salon, he instead joined a group of young artists who were organizing an independent exhibiting society. The group soon became known as the Impressionists.
+
+    Between 1874 and 1886, they mounted eight art shows, known as the Impressionist Exhibitions. Degas took a leading role in organizing the exhibitions, and showed his work in all but one of them, despite his persistent conflicts with others in the group. He had little in common with Monet and the other landscape painters in the group, whom he mocked for painting outdoors. Conservative in his social attitudes, he abhorred the scandal created by the exhibitions, as well as the publicity and advertising that his colleagues sought. He also deeply disliked being associated with the term \"Impressionist\", which the press had coined and popularized, and insisted on including non-Impressionist artists such as Jean-Louis Forain and Jean-François Raffaëlli in the group\'s exhibitions. The resulting rancor within the group contributed to its disbanding in 1886.
+
+    As his financial situation improved through sales of his own work, he was able to indulge his passion for collecting works by artists he admired: old masters such as El Greco and such contemporaries as Manet, Pissarro, Cézanne, Gauguin, Van Gogh, and Édouard Brandon. Three artists he idolized, Ingres, Delacroix, and Daumier, were especially well represented in his collection.
+
+    In the late 1880s, Degas also developed a passion for photography. He photographed many of his friends, often by lamplight, as in his double portrait of Renoir and Mallarmé. Other photographs, depicting dancers and nudes, were used for reference in some of Degas\'s drawings and paintings.
+
+    As the years passed, Degas became isolated, due in part to his belief that a painter could have no personal life. The Dreyfus Affair controversy brought his anti-Semitic leanings to the fore and he broke with all his Jewish friends. His argumentative nature was deplored by Renoir, who said of him: \"What a creature he was, that Degas! All his friends had to leave him; I was one of the last to go, but even I couldn\'t stay till the end.\"
+
+    Although he is known to have been working in pastel as late as the end of 1907, and is believed to have continued making sculptures as late as 1910, he apparently ceased working in 1912, when the impending demolition of his longtime residence on the rue Victor Massé forced him to move to quarters on the Boulevard de Clichy. He never married, and spent the last years of his life, nearly blind, restlessly wandering the streets of Paris before dying in September 1917.
+    </string>
+
+
+
+    // -------- Edvard Munch -------------
+    <string name="art_6_artist_name">Edvard Munch</string>
+    <string name="art_6_artist_info">Norwegian, 1863 - 1944</string>
+    <string name="art_6_artist_title">Madonna</string>
+    <string name="art_6_artist_year">1896</string>
+    <string name="art_6_artist_description">Madonna by Edvard Munch</string>
+    <string name="art_6_artist_bio">Edvard Munch was a Norwegian painter. His best known work, The Scream, has become one of the iconic images of world art.
+
+    His childhood was overshadowed by illness, bereavement and the dread of inheriting a mental condition that ran in the family. Studying at the Royal School of Art and Design in Kristiania (today\'s Oslo), Munch began to live a bohemian life under the influence of the nihilist Hans Jæger, who urged him to paint his own emotional and psychological state (\'soul painting\'). From this emerged his distinctive style.
+
+    Travel brought new influences and outlets. In Paris, he learned much from Paul Gauguin, Vincent van Gogh and Henri de Toulouse-Lautrec, especially their use of colour. In Berlin, he met the Swedish dramatist August Strindberg, whom he painted, as he embarked on his major canon The Frieze of Life, depicting a series of deeply-felt themes such as love, anxiety, jealousy and betrayal, steeped in atmosphere.
+
+    The Scream was conceived in Kristiania. According to Munch, he was out walking at sunset, when he \'heard the enormous, infinite scream of nature\'. The painting\'s agonised face is widely identified with the angst of the modern person. Between 1893 and 1910, he made two painted versions and two in pastels, as well as a number of prints. One of the pastels would eventually command the fourth highest nominal price paid for a painting at auction.
+
+    As his fame and wealth grew, his emotional state remained insecure. He briefly considered marriage, but could not commit himself. A breakdown in 1908 forced him to give up heavy drinking, and he was cheered by his increasing acceptance by the people of Kristiania and exposure in the city\'s museums. His later years were spent working in peace and privacy. Although his works were banned in Nazi Germany, most of them survived World War II, securing him a legacy.
+    </string>
+
 </resources>
